@@ -6,8 +6,6 @@ A _global table_ is a collection of one or more replica tables, all owned by a s
 
 ![AWS DynamoDB Global Tables](images/miztiik-dynamo-global-tables-multi-master-multi-region.png)
 
-#### Follow this article in [Youtube](https://youtu.be/ibjuH9A3Wmg)
-
 ## Setup The Tables
 The following is a conceptual overview of how a global table is created.
 
